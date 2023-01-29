@@ -1,4 +1,4 @@
-### Olá, Eu sou o Flavio, como vai? 👋
+## Olá, Eu sou o Flavio, como vai? 👋
 - 🔭 Estou em transição de carreira buncando minha primeira vaga no mercado de Desenvolvimento e Tecnologia
 - 🌱 Atualmente estou estudando linguagens Front End - HTML, CSS e JavaScript
 ##
