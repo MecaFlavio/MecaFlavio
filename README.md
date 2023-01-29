@@ -18,6 +18,7 @@ Atualmente trabalho na area industrial, sou casado e tenho uma filha linda, dura
 Aqui no github gosto de registrar todo meu aprendizado e sempre posto os projetos que desenvolvo, mesmo os mais simples.
 Estou bucando espaço no mercado de programação, desenvolvimento e tecnologia.
 ### Curiosidades
+- Meu Apelido é Meca
 - Tenho uma Pinscher chamada Zelda e amo câes
 - Video game é meu Hobbie favorito
 - Gosto de tocar violão e aprender instrumentos musicais
