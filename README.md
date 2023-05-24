@@ -19,6 +19,7 @@ Aqui no github gosto de registrar todo meu aprendizado e sempre posto os projeto
 Estou bucando espaço no mercado de programação, desenvolvimento e tecnologia.
 ### Curiosidades
 - Meu Apelido é Meca
+- Sou pai de uma menina linda chamada Ester
 - Tenho uma Pinscher chamada Zelda e amo câes
 - Video game é meu Hobbie favorito
 - Gosto de tocar violão e aprender instrumentos musicais
