@@ -22,6 +22,7 @@ Estou bucando espaço no mercado de programação, desenvolvimento e tecnologia.
 - Sou pai de uma menina linda chamada Ester
 - Tenho uma Pinscher chamada Zelda e amo câes
 - Video game é meu Hobbie favorito
+- Happy Hour e Cervejinha eu topo
 - Gosto de tocar violão e aprender instrumentos musicais
 ##
 ### Como entrar em contato
