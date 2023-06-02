@@ -12,12 +12,12 @@
 
 ##
 ### Sobre Mim
-Sou apaixonado por tecnologia, amo aprender e criar coisas novas, programar pra mim é ter a certeza de que posso alcançar conquistas maiores na minha vida.
-Gosto de estar envolvido e ajudar a resolver em problemas.
-Atualmente trabalho na area industrial, mas estou em me preparando para transicionar para carreira de desenvolvimento de tecnologia.
+Sou apaixonado por tecnologia, amo aprender e criar coisas novas, programar para mim é ter a certeza de que posso alcançar conquistas maiores na minha vida.
+Gosto de estar envolvido e ajudar a resolver problemas.
+Atualmente trabalho na area industrial, mas estou me preparando para transicionar para carreira de desenvolvimento de tecnologia.
 Sou casado, tenho uma filha linda e durante meu tempo livre busco programar e aprimorar meus conhecimentos em programação fazendo cursos focados para aprender novas habilidade e aprimorar meus conhecimentos.
 Aqui no github gosto de registrar todo meu aprendizado e sempre posto os projetos que desenvolvo, mesmo os mais simples.
-Estou bucando espaço no mercado de programação, desenvolvimento e tecnologia.
+Estou buscando espaço no mercado de programação, desenvolvimento e tecnologia.
 ### Curiosidades
 - Meu Apelido é Meca
 - Sou pai de uma menina linda chamada Ester
