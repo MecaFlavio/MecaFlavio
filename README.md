@@ -1,5 +1,6 @@
 ## Olá, Eu sou o Flavio, como vai? 👋
-- 🔭 Estou em transição de carreira buscando minha primeira vaga no mercado de Desenvolvimento e Tecnologia
+- 🔭 Estou em transição de carreira no mercado de Desenvolvimento e Tecnologia
+- Estudo diariamente para aperfeiçoar meus conhecimentos em Front-end e Back-end
 - 🌱 Atualmente estou estudando Front End - HTML, CSS / BackEnd - Python, JavaScript 
 ##
 ### Meus Conhecimentos
