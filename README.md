@@ -2,10 +2,10 @@
 ## Olá, Me chamo Flávio, bem vindo(a) ao meu perfil. 👋
 - 😃 Gosto muito de programar e aprender novas tecnologias
 - 🧐 Gosto de estar envolvido e ajudar a resolver problemas.
-- 👨‍🎓 Tenho formação técnica em Mecatronica e sou Estudante de Analise e Desenvolvimento de Sistemas.
 - ⚔ Estou em transição de carreira, atualmente trabalho na area industrial.
-- 📚 Estudo diariamente para aperfeiçoar meus conhecimentos em Front-end, Back-end e Banco de Dados fazendo projetos e cursos para aprender novas habilidades e conhecimentos.
+- 👨‍🎓 Tenho formação técnica em Mecatronica e sou Estudante de Analise e Desenvolvimento de Sistemas.
 - 🖥 Atualmente estou estudando Front End - HTML, CSS / BackEnd - Python, JavaScript.
+- 📚 Estudo diariamente para aperfeiçoar meus conhecimentos em Front-end, Back-end e Banco de Dados fazendo projetos e cursos para aprender novas habilidades e conhecimentos.
 - 👨‍👩‍👧Tenho 33 anos, sou casado, pai de uma filha linda.
 - 🎮 Durante meu tempo livre busco estar com minha família, jogar games e tocar violão.
 - 💾 Aqui no github gosto de registrar todo meu aprendizado e sempre posto os projetos que desenvolvo, mesmo os mais simples.
