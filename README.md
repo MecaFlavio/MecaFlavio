@@ -16,8 +16,8 @@
   <img align="center" alt="Meca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Meca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Meca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Meca-Git" height="30" width="40" src="https://vetores.org/wp-content/uploads/git.png">
-  <img align="center" alt="Meca-Git" height="30" width="40" src="https://androidstudiofaqs.com/wp-content/uploads/2015/11/github.gif">
+  <img align="center" alt="Meca-git" height="30" width="40" src="https://vetores.org/wp-content/uploads/git.png">
+  <img align="center" alt="Meca-GitHub" height="30" width="40" src="https://androidstudiofaqs.com/wp-content/uploads/2015/11/github.gif">
 </div>
 
 # 🌐 Redes Sociais e contato:
