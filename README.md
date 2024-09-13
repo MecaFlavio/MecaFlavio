@@ -4,7 +4,7 @@
 - 🧐 Gosto de estar envolvido e ajudar a resolver problemas.
 - ⚔ Estou em transição de carreira, atualmente trabalho na area industrial.
 - 👨‍🎓 Tenho formação técnica em Mecatronica e sou Estudante de Analise e Desenvolvimento de Sistemas.
-- 🖥 Atualmente estou estudando Front End - HTML, CSS / BackEnd - Python, JavaScript.
+- 🖥 Atualmente estou estudando Front End - HTML, CSS / BackEnd - Python, Java.
 - 📚 Estudo diariamente para aperfeiçoar meus conhecimentos em Front-end, Back-end e Banco de Dados fazendo projetos e cursos para aprender novas habilidades e conhecimentos.
 - 👨‍👩‍👧Tenho 33 anos, sou casado, pai de uma filha linda.
 - 🎮 Durante meu tempo livre busco estar com minha família, jogar games e tocar violão.
