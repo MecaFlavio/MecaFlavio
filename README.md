@@ -20,7 +20,7 @@
 </div>
 
 # 🌐 Redes Sociais e contato:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mecaflavio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-alves-pereira-435182114/) [![E-mail](https://img.shields.io/badge/EMAIL-blue
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-alves-pereira-435182114/) [![E-mail](https://img.shields.io/badge/EMAIL-blue
 )](flavio.metodista@hotmail.com)
 
 # 📊 GitHub Stats:
